@@ -1,2 +1,2 @@
 giải nén file google.rar tại chỗ.
-chạy gileindex.php
+chạy file index.php
